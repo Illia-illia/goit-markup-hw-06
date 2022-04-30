@@ -878,12 +878,17 @@ color: var(--secondary-text);
   color: rgba(117, 117, 117, 0.5);
 }
 
+.check-text{
+  margin-top: var(--margin20);
+  margin-bottom: var(--margin30);
+}
+
 .check-text,
 .check-link {
   display: flex;
   align-items: center;
   justify-content: center;
-  
+
   font-size: 14px;
   line-height: 1.71;
   
