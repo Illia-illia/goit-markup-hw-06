@@ -788,6 +788,7 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
   border-radius: 50%;
   cursor: pointer;
   background-color: transparent;
+  transition: fill var(--duration250ms) var(--time-function);
 }
 
 .modal-icon-close:focus,
